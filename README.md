@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm [Shourya Dengre] 👋
+
+Welcome to my GitHub profile! I am currently a **[1st]** year student majoring in **[Computer Science Engineering in AI ML]**. 
+
+### 🌱 My Learning Goals
+I am really hoping to learn [how to navigate the digital world this semester].
+
+---
+
+
 
 <!--
 **shouryadengre12-bot/shouryadengre12-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
